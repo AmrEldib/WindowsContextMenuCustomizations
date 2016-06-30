@@ -1,0 +1,3 @@
+%SystemRoot%\explorer.exe /e,::{20d04fe0-3aea-1069-a2d8-08002b30309d}
+
+http://tech.gaeatimes.com/index.php/archive/windows-7-hack-start-windows-explorer-from-my-computer/

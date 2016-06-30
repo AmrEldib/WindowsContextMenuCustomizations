@@ -1,0 +1,4 @@
+1. Press Win+R and type regedit to open up the Registry Editor
+2. Navigate to the HKEY_CLASSES_ROOT\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6} registry key.
+3. Double-click on System.IsPinnedToNameSpaceTree change its value from 1 to 0.
+4. Log off or restart your computer. When you open File Explorer, the OneDrive entry should be gone from the list.
