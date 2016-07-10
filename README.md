@@ -2,7 +2,7 @@
 
 Registry entries to modify Windows context menu.
 
-WARNING: Works on my machine. Use at your own risk.
+:warning: WARNING: Works on my machine. Use at your own risk. :warning:
 
 # Contribution
 
