@@ -19,3 +19,5 @@ Use the following guidelines to name files:
 - Use spaces instead of dashes or underscores
 - Use proper capitalization
 
+# Info 
+[How to clean up your messy Context Menu - HowToGeek](http://www.howtogeek.com/howto/windows-vista/how-to-clean-up-your-messy-windows-context-menu/)

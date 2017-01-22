@@ -14,3 +14,4 @@ Share with to Context Menu - Remove.reg
 Shared Folder Synchronization - Remove.reg
 TakeOwnership - Remove.reg
 Windows 7 Libraries - Remove.reg
+Git GUI Here - Move Menu Item to Shift Click.reg
