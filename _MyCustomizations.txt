@@ -1,0 +1,16 @@
+Bitmap Image in New Context Menu - Remove.reg
+Contact in New Context Menu - Remove.reg
+Include in Library - Remove.reg
+Journal Document - Remove.reg
+Pin to Quick Access - Remove.reg
+Pin to Start - Remove.reg
+Print in Context Menu - Remove.reg
+Restore Previous Versions Context Menu - Remove.reg
+Restore Previous Versions Properties Tab - Remove.reg
+Scan with Windows Defender Context Menu Item - Remove.reg
+Send To Context Menu - Remove.reg
+Set as Desktop Background - Remove.reg
+Share with to Context Menu - Remove.reg
+Shared Folder Synchronization - Remove.reg
+TakeOwnership - Remove.reg
+Windows 7 Libraries - Remove.reg

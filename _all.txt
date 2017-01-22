@@ -1,0 +1,59 @@
+.gitattributes
+.gitignore
+Add New MD file.reg
+AMD CCC - Add.reg
+AMD CCC - Remove.reg
+Bitmap Image in New Context Menu - Add.reg
+Bitmap Image in New Context Menu - Remove.reg
+Contact in New Context Menu - Add.reg
+Contact in New Context Menu - Remove.reg
+Edit with VS Code - Add.reg
+Edit with VS Code - Remove.reg
+Explorer Copy NamingTemplates.reg
+Explorer Copy NamingTemplates.txt
+GitKraken Context Menu - Add.reg
+GitKraken Context Menu - Move Menu Item to Shift Click.reg
+GitKraken Context Menu - Remove.reg
+Include in Library - Add.reg
+Include in Library - Remove.reg
+Intel Graphics - Add.reg
+Intel Graphics - Remove.reg
+Journal Document - Add.reg
+Journal Document - Remove.reg
+Journal Document.txt
+OneDrive from the Explorer Side Panel in Windows 10 - Remove.txt
+Pin to Quick Access - Add.reg
+Pin to Quick Access - Remove.reg
+Pin to Start - Add.reg
+Pin to Start - Remove.reg
+Print in Context Menu - Remove.reg
+README.md
+RecycleBinInMyComputer - Add.reg
+RecycleBinInMyComputer - Remove.reg
+Remove-Folders-From-This-PC-on-Windows-10
+Reset Windows 10 Update.txt
+Restore Previous Versions Context Menu - Add.reg
+Restore Previous Versions Context Menu - Remove.reg
+Restore Previous Versions Properties Tab - Add.reg
+Restore Previous Versions Properties Tab - Remove.reg
+Restore Previous Versions Properties Tab.txt
+Scan with Windows Defender Context Menu Item - Add.reg
+Scan with Windows Defender Context Menu Item - Remove.reg
+Send To Context Menu - Add.reg
+Send To Context Menu - Remove.reg
+Set as Desktop Background - Add.reg
+Set as Desktop Background - Remove.reg
+Set as Desktop Background.txt
+Share with to Context Menu - Add.reg
+Share with to Context Menu - Remove.reg
+Shared Folder Synchronization - Remove.reg
+Start Winodws Explorer in My Computer.txt
+TakeOwnership - Add.reg
+TakeOwnership - Remove.reg
+Windows 7 Libraries - Add.reg
+Windows 7 Libraries - Remove.reg
+Windows Media Player Entries in Context Menu - Remove and Add.pdf
+Windows Media Player Entries in Context Menu - Remove and Add.txt
+_all.txt
+_ImportMyCustomizations.ps1
+_MyCustomizations.txt
